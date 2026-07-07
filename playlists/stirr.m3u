@@ -55,8 +55,6 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Elevation Church (1080p)
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Stirr TV",Feva Music (1080p)
-https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
 #EXTINF:-1 tvg-id="WLUKTV141.us@HD" group-title="Stirr TV",FOX 11 Green Bay WI (WLUK) (1080p)
 https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="KOKHTV251.us@HD" group-title="Stirr TV",FOX 25 Oklahoma City OK (KOKH) (1080p)
@@ -141,5 +139,3 @@ https://videoelephant-limited-valuetainment-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us@HD" group-title="Stirr TV",Wine Watches & Whiskey (1080p)
 https://www-on-stirr.b-cdn.net/Wine-Watches-and-Whiskey/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us@US" group-title="Stirr TV",World Poker Tour (1080p)
-https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
