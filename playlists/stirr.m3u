@@ -47,8 +47,6 @@ https://linear-704.frequency.stream/dist/stirr/704/hls/master/playlist.m3u8
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us@SD" group-title="Stirr TV",Dark Matter TV (720p)
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" group-title="Stirr TV",DeFiance Media (1080p)
-https://amg01529-amg01529c2-stirr-us-7789.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" group-title="Stirr TV",DroneTV (1080p)
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectricNow.us@SD" group-title="Stirr TV",Electric Now (720p)
