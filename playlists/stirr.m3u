@@ -119,6 +119,8 @@ https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="Stirr TV",TRACE Latina (1080p)
 https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" group-title="Stirr TV",TRACE Sportstar (1080p)
+https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",TRACE UK (1080p)
 https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" group-title="Stirr TV",TRACE Urban (1080p)
