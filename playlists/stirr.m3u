@@ -49,8 +49,6 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" group-title="Stirr TV",DroneTV (1080p)
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElectricNow.us@SD" group-title="Stirr TV",Electric Now (720p)
-https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us@HD" group-title="Stirr TV",Elevation Church (1080p)
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WLUKTV141.us@HD" group-title="Stirr TV",FOX 11 Green Bay WI (WLUK) (1080p)
@@ -61,12 +59,8 @@ https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
 https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WBFF451.us@HD" group-title="Stirr TV",FOX 45 Baltimore MD (WBFF) (1080p)
 https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="FUELTV.pt@SD" group-title="Stirr TV",Fuel TV (1080p)
-https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",H20 TV (1080p)
 https://linear-738.frequency.stream/dist/stirr/738/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="InTouchPlus.us" group-title="Stirr TV",In Touch+ (1080p) [Geo-blocked]
-https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" group-title="Stirr TV",INTRAVEL (1080p)
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" group-title="Stirr TV",INTROUBLE (1080p)
@@ -97,14 +91,10 @@ https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" group-title="Stirr TV",NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
-#EXTINF:-1 tvg-id="OnTV4U.us@SD" group-title="Stirr TV",OnTV4U (1080p) [Geo-blocked]
-https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us@SD" group-title="Stirr TV",PursuitUP (1080p)
 https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" group-title="Stirr TV",RightNow TV (720p)
 https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
-#EXTINF:-1 tvg-id="RVTV.us@HD" group-title="Stirr TV",RVTV (1080p) [Geo-blocked]
-https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="SalemNewsChannel.us@SD" group-title="Stirr TV",Salem News Channel (1080p)
 https://amg00732-amg00732c2-stirr-us-8938.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Shooting Sports Life (1080p)
@@ -115,22 +105,8 @@ https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(ShopLCStirrTV)/
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveCombat.us@SD" group-title="Stirr TV",Swerve Combat (1080p)
 https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" group-title="Stirr TV",TRACE Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceLatina.fr@SD" group-title="Stirr TV",TRACE Latina (1080p)
-https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" group-title="Stirr TV",TRACE Sportstar (1080p)
-https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Stirr TV",TRACE UK (1080p)
-https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr@SD" group-title="Stirr TV",TRACE Urban (1080p)
-https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Travel Escapes (1080p)
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Stirr TV",Unleashed by DOGTV (1080p)
-https://amg26269-dogtv-amg26269c2-stirr-us-8504.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="USATODAY.us@SD" group-title="Stirr TV",USA Today (1080p)
-https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Valuetainment (1080p)
 https://videoelephant-limited-valuetainment-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Western Bound (1080p)
