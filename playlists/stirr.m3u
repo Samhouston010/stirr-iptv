@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MNT.us@WCIV" group-title="Stirr TV",ABC 4 Charleston SC (WCIV) (1080p)
-https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@KSTPTV" group-title="Stirr TV",ABC 5 St. Paul MN (KSTP) (1080p)
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABC.us@KAAL" group-title="Stirr TV",ABC 6 Austin TX (KAAL) (1080p)
@@ -23,8 +21,6 @@ https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us@HD" group-title="Stirr TV",Elevation Church (1080p)
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox.us@WBFF" group-title="Stirr TV",FOX 45 Baltimore MD (WBFF) (1080p)
-https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@SD" group-title="Stirr TV",Fuel TV (1080p)
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTouchPlus.us" group-title="Stirr TV",In Touch+ (1080p) [Geo-blocked]
@@ -43,8 +39,6 @@ https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
 #EXTINF:-1 tvg-id="KOBDT1.us@SD" group-title="Stirr TV",NBC 4 Albuquerque NM (KOB) (1080p)
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBC.us@WTOVTV" group-title="Stirr TV",NBC 9 Steubenville OH (WTOV) (1080p)
-https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WHECTV" group-title="Stirr TV",NBC 10 Rochester NY (WHEC) (1080p)
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WNYT" group-title="Stirr TV",NBC 13 Albany NY (WNYT) (1080p)
