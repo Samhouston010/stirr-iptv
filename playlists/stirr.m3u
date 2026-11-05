@@ -13,6 +13,8 @@ https://videoelephantlimited-beyondparanormal-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://videoelephant-limited-blackenterprisestreamingnetwork-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Stirr TV",Craftsy (1080p)
 https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CricketGold.au@SD" group-title="Stirr TV",Cricket Gold (1080p)
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTV.us@SD" group-title="Stirr TV",Dark Matter TV (720p)
 https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us@SD" group-title="Stirr TV",DroneTV (1080p)
@@ -23,7 +25,7 @@ https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FUELTV.pt@SD" group-title="Stirr TV",Fuel TV (1080p)
 https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTouchPlus.us" group-title="Stirr TV",In Touch+ (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="InTouchPlus.us@HD" group-title="Stirr TV",In Touch+ (1080p) [Geo-blocked]
 https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" group-title="Stirr TV",INTRAVEL (1080p)
 https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
@@ -37,7 +39,7 @@ https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8
 https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us@SD" group-title="Stirr TV",Law & Crime (720p)
 https://cdn.lawandcrime.net/rewind/playlist.m3u8
-#EXTINF:-1 tvg-id="KOBDT1.us@SD" group-title="Stirr TV",NBC 4 Albuquerque NM (KOB) (1080p)
+#EXTINF:-1 tvg-id="" group-title="Stirr TV",NBC 4 Albuquerque NM (KOB) (1080p)
 https://amg01942-amg01942c1-stirr-us-10167.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us@WHECTV" group-title="Stirr TV",NBC 10 Rochester NY (WHEC) (1080p)
 https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
@@ -45,8 +47,6 @@ https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
 https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@USA" group-title="Stirr TV",NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
-#EXTINF:-1 tvg-id="OnTV4U.us@SD" group-title="Stirr TV",OnTV4U (1080p) [Geo-blocked]
-https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us@SD" group-title="Stirr TV",PursuitUP (1080p)
 https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" group-title="Stirr TV",RightNow TV (720p)
